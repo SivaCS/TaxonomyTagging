@@ -51,16 +51,17 @@ export const _TI = [
 
 export const _Locations = [
     
-    { Item: "Global", Category: 1 },
-    { Item: "Americas", Category: 2 },
-    { Item: "California", Category: 3 },
-    { Item: "San Francisco", Category: 4 },
-    { Item: "Silicon Valley", Category: 4 },
-    { Item: "Colorado", Category: 3 },
-    { Item: "Denver", Category: 4 },
-    { Item: "Connecticut", Category: 3 },
-    { Item: "Hartford", Category: 4 },
-    { Item: "Westchester", Category: 4 },
+{ Item: 'Cabbage', category: 'Leafy and Salad', id: 'item1' },
+{ Item: 'Spinach', category: 'Leafy and Salad', id: 'item2' },
+{ Item: 'Wheat grass', category: 'Leafy and Salad', id: 'item3' },
+{ Item: 'Yarrow', category: 'Leafy and Salad', id: 'item4' },
+{ Item: 'Pumpkins', category: 'Leafy and Salad', id: 'item5' },
+{ Item: 'Chickpea', category: 'Beans', id: 'item6' },
+{ Item: 'Green bean', category: 'Beans', id: 'item7' },
+{ Item: 'Horse gram', category: 'Beans', id: 'item8' },
+{ Item: 'Garlic', category: 'Bulb and Stem', id: 'item9' },
+{ Item: 'Nopal', category: 'Bulb and Stem', id: 'item10' },
+{ Item: 'Onion', category: 'Bulb and Stem', id: 'item11' },
 ];
 
 export const _Audiences = [
